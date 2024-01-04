@@ -4,7 +4,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Cpr.E student at KMUTNB
 -----------------------
 
-Hi there, I am a third-year undergraduate student majoring in Computer Engineering at King Mongkut's University of Technology North Bangkok. I aspire to pursue a career in software development. I am quite interested in and appreciate software development, system design, and data administration. In most of my work, I often take on roles in the Backend. An important example is being responsible for the server in the TESA competition, acting as an intermediary between the Hardware side and Matlab side through MQTT and REST API. I handle data storage in MongoDB and present the data on a web interface using tables or graphs. Additionally, I utilize Docker for server deployment. Skills & Qualifications: ✓ Python programming ✓ Backend development ✓ Database management and design using MySQL, SQLite, and MongoDB
+Hi there, I am a third-year undergraduate student majoring in Computer Engineering at King Mongkut's University of Technology North Bangkok. I aspire to pursue a career in software development. I am quite interested in and appreciate software development, system design, and data administration. 
+
+In most of my work, I often take on roles in the Backend. An important example is being responsible for the server in the TESA competition, acting as an intermediary between the Hardware side and Matlab side through MQTT and REST API. I handle data storage in MongoDB and present the data on a web interface using tables or graphs. Additionally, I utilize Docker for server deployment. 
+
+Skills & Qualifications: 
+  ✓ Python programming 
+  ✓ Backend development 
+  ✓ Database management and design using MySQL, SQLite, and MongoDB
 
 * 🌍  I'm based in Bangkok, Thailand
 * ✉️  You can contact me at [supakron.chak@gmail.com](mailto:supakron.chak@gmail.com)
